@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @AvetBadalyan
--    I’m interested in Front End development and Sustainable growth, in active looking for a job in the position of Junior Front End/software developer.
--    I’m currently practicing React JS and Redux/toolkit (have intention to learn Node JS for the next step)
--    I’m looking to collaborate on building apps with React (redux) or Pure HTML/CSS and JavaScript.
+I have acquired fundamental knowledge in Front-End Development
+at Armenian Code Academy's "Front-End Bootcamp".
+Then, I honed my skills at Cognaize LLC working on tasks ranging
+from redesigning elements and debugging to adding new features.
+And now, with a year of hands-on experience, I am ready to embrace
+new challenges and contribute to innovative projects.
 - 📫 How to reach me - <br>
       my phone number: +374-55-280-444, <br>
       email: avetbadalyan@gmail.com, <br>
