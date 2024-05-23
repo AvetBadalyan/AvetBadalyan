@@ -1,9 +1,7 @@
-I have acquired fundamental knowledge in Front-End Development
-at Armenian Code Academy's "Front-End Bootcamp".
-Then, I honed my skills at Cognaize LLC working on tasks ranging
-from redesigning elements and debugging to adding new features.
-And now, with a year of hands-on experience, I am ready to embrace
-new challenges and contribute to innovative projects.
+I acquired fundamental Front-End Development knowledge through a bootcamp at Armenian Code Academy and courses at Microsoft IC Armenia.
+Then, at Cognaize Engineering LLC, I continued to improve my skills by working on a variety of tasks, including redesigning elements, debugging, and implementing new features.
+Alongside this, I worked on personal projects and freelancing.
+And now, with 2 years of hands-on experience, I'm excited to take on new challenges and contribute to innovative projects!
 - 📫 How to reach me - <br>
       my phone number: +374-55-280-444, <br>
       email: avetbadalyan@gmail.com, <br>
