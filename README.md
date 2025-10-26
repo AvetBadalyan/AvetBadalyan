@@ -6,11 +6,11 @@
 
 :memo: Frontend Developer with 3+ years of hands-on experience building modern, responsive web applications. I acquired fundamental Front-End Development knowledge through a bootcamp at Armenian Code Academy and courses at Microsoft IC Armenia. At Cognaize Engineering LLC, I evolved my skills working on feature development, debugging, and design implementation. I specialize in developing custom Shopify themes for e-commerce businesses at Ashstone Studios. Currently expanding into fullstack development with Node.js, Express.js, Next.js, TypeScript, SQL/PostgreSQL, and AWS at EPAM Armenia. Passionate about clean code and innovative solutions that deliver exceptional user experiences!
 
-<p align="left" styles="z-index: 999;">
+## 🧑‍💻 Skills
+
+<p align="center" styles="z-index: 999;">
   <img align='center' src='https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif' width='300'>
 </p>
-
-## 🧑‍💻 Skills
 
 <table>
   <tr><td valign="top" width="50%">
