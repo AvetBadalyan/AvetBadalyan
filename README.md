@@ -7,7 +7,7 @@
 :memo: Frontend Developer with 3+ years of hands-on experience building modern, responsive web applications. I acquired fundamental Front-End Development knowledge through a bootcamp at Armenian Code Academy and courses at Microsoft IC Armenia. At Cognaize Engineering LLC, I evolved my skills working on feature development, debugging, and design implementation. I specialize in developing custom Shopify themes for e-commerce businesses at Ashstone Studios. Currently expanding into fullstack development with Node.js, Express.js, Next.js, TypeScript, SQL/PostgreSQL, and AWS at EPAM Armenia. Passionate about clean code and innovative solutions that deliver exceptional user experiences!
 
 <p align="left" styles="z-index: 999;">
-  <img align='right' src='https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif' width='300'>
+  <img align='center' src='https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif' width='300'>
 </p>
 
 ## 🧑‍💻 Skills
@@ -147,18 +147,15 @@ Cocktail recipe app with search functionality and detailed drink information usi
 ## 📫 How to reach me
 
 - 📱 Phone: +374-55-280-444
-- 📧 Email: avetbadalyan@gmail.com
-<p align="left">
-  <a href="mailto:avetbadalyan@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="30" width="40" /></a>
-</p>
+- <span align="left">
+    <a href="mailto:avetbadalyan@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="20" width="20" /> Email: avetbadalyan@gmail.com</a>
+  </span>
 
-- 💼 LinkedIn: [Avet Badalyan](https://www.linkedin.com/in/avet-badalyan-17b767101/)
-<p align="left">
-  <a href="https://www.linkedin.com/in/avet-badalyan-17b767101/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avet-badalyan" height="30" width="40" /></a>
+- <span align="left">
+    <a href="https://www.linkedin.com/in/avet-badalyan-17b767101/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avet-badalyan" height="20" width="20" />LinkedIn: [Avet Badalyan](https://www.linkedin.com/in/avet-badalyan-17b767101/)</a>
+  </span>
 
-</p>
 - 🌐 Portfolio: [avets-portfolio.web.app](https://avets-portfolio.web.app/)
-
 
 ## 📊 GitHub Stats
 
